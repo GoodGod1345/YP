@@ -1,0 +1,128 @@
+C:\Users\429194-1\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\429194-1\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\429194-1\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\429194-1\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\429194-1\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.log_in.resources
+C:\Users\429194-1\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\429194-1\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\429194-1\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\429194-1\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\429194-1\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\429194-1\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.sign_up.resources
+F:\4 курс\УП02\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\4 курс\УП02\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\4 курс\УП02\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\4 курс\УП02\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+F:\4 курс\УП02\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Administrator.resources
+F:\4 курс\УП02\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.log_in.resources
+F:\4 курс\УП02\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\4 курс\УП02\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.sign_up.resources
+F:\4 курс\УП02\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\4 курс\УП02\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\4 курс\УП02\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\4 курс\УП02\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\4 курс\УП02\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Customer.resources
+F:\4 курс\УП02\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SignAdmin.resources
+C:\Users\111\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\111\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\111\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\111\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\111\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Administrator.resources
+C:\Users\111\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Customer.resources
+C:\Users\111\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.log_in.resources
+C:\Users\111\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\111\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SignAdmin.resources
+C:\Users\111\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.sign_up.resources
+C:\Users\111\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\111\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\111\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\111\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\111\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Tovars.resources
+C:\Users\111\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NewTovarcs.resources
+C:\Users\111\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Captcha.resources
+C:\Users\429194-1\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\429194-1\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\429194-1\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\429194-1\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\429194-1\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Administrator.resources
+C:\Users\429194-1\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Captcha.resources
+C:\Users\429194-1\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Customer.resources
+C:\Users\429194-1\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.log_in.resources
+C:\Users\429194-1\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NewTovarcs.resources
+C:\Users\429194-1\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\429194-1\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SignAdmin.resources
+C:\Users\429194-1\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.sign_up.resources
+C:\Users\429194-1\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Tovars.resources
+C:\Users\429194-1\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\429194-1\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\429194-1\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\429194-1\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\429194-1\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Workers.resources
+C:\Users\111\Desktop\5 лаба\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\111\Desktop\5 лаба\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\111\Desktop\5 лаба\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\111\Desktop\5 лаба\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\111\Desktop\5 лаба\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Administrator.resources
+C:\Users\111\Desktop\5 лаба\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Customer.resources
+C:\Users\111\Desktop\5 лаба\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.History.resources
+C:\Users\111\Desktop\5 лаба\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.log_in.resources
+C:\Users\111\Desktop\5 лаба\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NewTovarcs.resources
+C:\Users\111\Desktop\5 лаба\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\111\Desktop\5 лаба\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SignAdmin.resources
+C:\Users\111\Desktop\5 лаба\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.sign_up.resources
+C:\Users\111\Desktop\5 лаба\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Tovars.resources
+C:\Users\111\Desktop\5 лаба\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Workers.resources
+C:\Users\111\Desktop\5 лаба\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\111\Desktop\5 лаба\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\111\Desktop\5 лаба\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\111\Desktop\5 лаба\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\429194-1\Desktop\5 лаба(ALFA)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\429194-1\Desktop\5 лаба(ALFA)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\429194-1\Desktop\5 лаба(ALFA)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\429194-1\Desktop\5 лаба(ALFA)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\429194-1\Desktop\5 лаба(ALFA)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Administrator.resources
+C:\Users\429194-1\Desktop\5 лаба(ALFA)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Customer.resources
+C:\Users\429194-1\Desktop\5 лаба(ALFA)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.History.resources
+C:\Users\429194-1\Desktop\5 лаба(ALFA)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.log_in.resources
+C:\Users\429194-1\Desktop\5 лаба(ALFA)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NewTovarcs.resources
+C:\Users\429194-1\Desktop\5 лаба(ALFA)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\429194-1\Desktop\5 лаба(ALFA)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SignAdmin.resources
+C:\Users\429194-1\Desktop\5 лаба(ALFA)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.sign_up.resources
+C:\Users\429194-1\Desktop\5 лаба(ALFA)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Tovars.resources
+C:\Users\429194-1\Desktop\5 лаба(ALFA)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Workers.resources
+C:\Users\429194-1\Desktop\5 лаба(ALFA)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\429194-1\Desktop\5 лаба(ALFA)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\429194-1\Desktop\5 лаба(ALFA)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\429194-1\Desktop\5 лаба(ALFA)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\429194-1\Desktop\5 лаба(ALFA)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Orders.resources
+H:\УП02\Подвижки\5 лаба(СДАЛ)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+H:\УП02\Подвижки\5 лаба(СДАЛ)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+H:\УП02\Подвижки\5 лаба(СДАЛ)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+H:\УП02\Подвижки\5 лаба(СДАЛ)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+H:\УП02\Подвижки\5 лаба(СДАЛ)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Administrator.resources
+H:\УП02\Подвижки\5 лаба(СДАЛ)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Customer.resources
+H:\УП02\Подвижки\5 лаба(СДАЛ)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.History.resources
+H:\УП02\Подвижки\5 лаба(СДАЛ)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.log_in.resources
+H:\УП02\Подвижки\5 лаба(СДАЛ)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NewTovarcs.resources
+H:\УП02\Подвижки\5 лаба(СДАЛ)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Orders.resources
+H:\УП02\Подвижки\5 лаба(СДАЛ)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\УП02\Подвижки\5 лаба(СДАЛ)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SignAdmin.resources
+H:\УП02\Подвижки\5 лаба(СДАЛ)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.sign_up.resources
+H:\УП02\Подвижки\5 лаба(СДАЛ)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Tovars.resources
+H:\УП02\Подвижки\5 лаба(СДАЛ)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Workers.resources
+H:\УП02\Подвижки\5 лаба(СДАЛ)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+H:\УП02\Подвижки\5 лаба(СДАЛ)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+H:\УП02\Подвижки\5 лаба(СДАЛ)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+H:\УП02\Подвижки\5 лаба(СДАЛ)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\danya\Desktop\TEMP\УП02\Подвижки\5 лаба(СДАЛ)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\danya\Desktop\TEMP\УП02\Подвижки\5 лаба(СДАЛ)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.log_in.resources
+C:\Users\danya\Desktop\TEMP\УП02\Подвижки\5 лаба(СДАЛ)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\danya\Desktop\TEMP\УП02\Подвижки\5 лаба(СДАЛ)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\danya\Desktop\TEMP\УП02\Подвижки\5 лаба(СДАЛ)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\danya\Desktop\TEMP\УП02\Подвижки\5 лаба(СДАЛ)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\danya\Desktop\TEMP\УП02\Подвижки\5 лаба(СДАЛ)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\danya\Desktop\TEMP\УП02\Подвижки\5 лаба(СДАЛ)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\danya\Desktop\TEMP\УП02\Подвижки\5 лаба(СДАЛ)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\danya\Desktop\TEMP\УП02\Подвижки\5 лаба(СДАЛ)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\danya\Desktop\TEMP\УП02\Подвижки\5 лаба(СДАЛ)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminPanel.resources
+C:\Users\danya\Desktop\TEMP\УП02\Подвижки\5 лаба(СДАЛ)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BuyForm.resources
